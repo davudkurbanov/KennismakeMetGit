@@ -2,3 +2,5 @@ chocomousse
 
 chocolade
 eiren
+melk
+boter
